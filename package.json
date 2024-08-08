@@ -1,0 +1,19 @@
+{
+  "name": "real-time-tracker",
+  "version": "1.0.0",
+  "description": "This Project About Real Time Tracking System.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Nimesh Mathavadiya",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.7.5"
+  }
+}
